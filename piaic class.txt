@@ -1,0 +1,18 @@
+html ya markdown
+json format hona chhaaye
+microsoft ny library banaye h
+prompt ko validate krny ky liyebtaye
+chatgpt microsft copy ka button dabayengy markdown ayega
+typeschat scheme nh typecheck istamal kro
+typechat sirf typescript ky sath chalega
+TypeChat json format m do chalao m khud prompt generate krky bhejonga
+error ayega tu m usko correct krky bhejonga llm ko
+Typechat m theory achi h
+scheme standard global format hai
+prompt main paisy zyda lagengy
+TypeChat main scheme zyda hoga
+pydantic object banana h
+pydantic ka object banaye asi library h jo scheme generate krdy
+pydantic sy obj bana kr scheme m generate krdo 
+pydantic m 3 ya 4 obj bana diye 
+pydantic error nh btayega 
